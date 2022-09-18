@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Document</title>
+		<style>
+			form#contact {
+				height: 400px;
+				display: flex;
+				align-items: center;
+				justify-content: center;
+				flex-direction: column;
+			}
+			form#contact div {
+				display: flex;
+				justify-content: center;
+				flex-direction: column;
+				width: 250px;
+				margin-bottom: 10px;
+			}
+			form#contact button {
+				width: 250px;
+				height: 40px;
+				background: #fff;
+				border: 1px solid #ddd;
+				border-radius: 5px;
+				cursor: pointer;
+			}
+		</style>
+	</head>
+	<body>
+		<div id="title" name="name" class="title-class">React Bootcamp</div>
+		<form id="contact">
+			<div>
+				<label>Name</label>
+				<input name="name" />
+			</div>
+			<div>
+				<label>Phone</label>
+				<input name="phone" />
+			</div>
+			<div>
+				<label>Message</label>
+				<textarea name="message"></textarea>
+			</div>
+			<button type="submit">Send</button>
+		</form>
+		<script src="index.js"></script>
+		<script src="form.js"></script>
+	</body>
+</html>
