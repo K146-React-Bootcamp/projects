@@ -23,8 +23,52 @@
 		<div class="container">
 			<h1>Yapılacaklar</h1>
 			<div id="root"></div>
+			<div class="modal fade" id="editModal" tabindex="1">
+				<div class="modal-dialog">
+					<div class="modal-content">
+						<div class="modal-header">
+							<h5 class="modal-title"></h5>
+							<button
+								type="button"
+								class="btn-close close"
+								aria-label="Close"
+							></button>
+						</div>
+						<div class="modal-body">
+							<div class="mb-3">
+								<label for="titleLabel" class="form-label">Başlık</label>
+								<input
+									type="text"
+									id="title"
+									class="form-control"
+									id="titleLabel"
+									placeholder=""
+								/>
+							</div>
+							<div class="form-check mb-3">
+								<input
+									class="form-check-input"
+									type="checkbox"
+									id="completed"
+								/>
+								<label class="form-check-label" for="completed">
+									Tamamlandı
+								</label>
+							</div>
+						</div>
+						<div class="modal-footer">
+							<button type="button" class="btn btn-secondary close">
+								Kapat
+							</button>
+							<button type="button" id="save" class="btn btn-primary">
+								Kaydet
+							</button>
+						</div>
+					</div>
+				</div>
+			</div>
 		</div>
-    <script src="js/common.js"></script>
+		<script src="js/common.js"></script>
 		<script src="js/todos.js"></script>
 	</body>
 </html>
