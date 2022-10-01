@@ -1,0 +1,15 @@
+form.contact-form {
+	margin: auto;
+	width: 50%;
+}
+
+.contact-form .form-row {
+    margin-bottom: 20px;
+}
+
+.form-row input, .form-row textarea {
+    width: 100%;
+}
+.form-row input {
+  height: 40px;
+}

@@ -1,0 +1,18 @@
+.category-row {
+	margin-bottom: 30px;
+}
+.category-title {
+	font-size: 20px;
+	font-weight: 600;
+}
+
+.product-row {
+	padding-top: 20px;
+}
+.card {
+  margin-bottom: 20px;
+}
+.card img {
+	width: 100%;
+	height: 280px;
+}

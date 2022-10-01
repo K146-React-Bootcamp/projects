@@ -1,0 +1,154 @@
+[
+  {
+    "category_id": 1,
+    "category": "Soğuk İçecekler",
+    "id": 2,
+    "name": "Mojito ",
+    "price": 17,
+    "image_url": "http://localhost:4000/images/mojito.jpeg"
+  },
+  {
+    "category_id": 1,
+    "category": "Soğuk İçecekler",
+    "id": 3,
+    "name": "Gökkuşağı",
+    "price": 19,
+    "image_url": "http://localhost:4000/images/gokkusagi.png"
+  },
+  {
+    "category_id": 1,
+    "category": "Soğuk İçecekler",
+    "id": 4,
+    "name": "Churcill",
+    "price": 10.9,
+    "image_url": "http://localhost:4000/images/churchill.png"
+  },
+  {
+    "category_id": 1,
+    "category": "Soğuk İçecekler",
+    "id": 5,
+    "name": "Land Island",
+    "price": 18,
+    "image_url": "http://localhost:4000/images/land-island.png"
+  },
+  {
+    "category_id": 1,
+    "category": "Soğuk İçecekler",
+    "id": 6,
+    "name": "Orange Marry",
+    "price": 19,
+    "image_url": "http://localhost:4000/images/orange-marry.png"
+  },
+  {
+    "category_id": 1,
+    "category": "Soğuk İçecekler",
+    "id": 7,
+    "name": "Green Apple",
+    "price": 18.9,
+    "image_url": "http://localhost:4000/images/green-apple.png"
+  },
+  {
+    "category_id": 8,
+    "category": "Waffle",
+    "id": 9,
+    "name": "Dondurmalı Waffle",
+    "price": 40.9,
+    "image_url": "http://localhost:4000/images/dondurmali-waffle.png"
+  },
+  {
+    "category_id": 8,
+    "category": "Waffle",
+    "id": 10,
+    "name": "Little Bitter",
+    "price": 36.9,
+    "image_url": "http://localhost:4000/images/little-bitter.png"
+  },
+  {
+    "category_id": 8,
+    "category": "Waffle",
+    "id": 11,
+    "name": "Classic Waffle",
+    "price": 55,
+    "image_url": "http://localhost:4000/images/classic-waffle.png"
+  },
+  {
+    "category_id": 8,
+    "category": "Waffle",
+    "id": 12,
+    "name": "Little Sütlü ",
+    "price": 36.9,
+    "image_url": "http://localhost:4000/images/little-sutlu.png"
+  },
+  {
+    "category_id": 13,
+    "category": "Pizza",
+    "id": 14,
+    "name": "Bol Malzemos Pizza",
+    "price": 65.50,
+    "image_url": "http://localhost:4000/images/bol-mazemos.png"
+  },
+  {
+    "category_id": 13,
+    "category": "Pizza",
+    "id": 15,
+    "name": "Karışık Pizza",
+    "price": 65.50,
+    "image_url": "http://localhost:4000/images/karisik-pizza.png"
+  },
+  {
+    "category_id": 13,
+    "category": "Pizza",
+    "id": 16,
+    "name": "Margaritta",
+    "price": 65.50,
+    "image_url": "http://localhost:4000/images/margaritta.png"
+  },
+  {
+    "category_id": 13,
+    "category": "Pizza",
+    "id": 17,
+    "name": "Peynirli Pizza",
+    "price": 65.50,
+    "image_url": "http://localhost:4000/images/peynirli-pizza.png"
+  },
+  {
+    "category_id": 13,
+    "category": "Pizza",
+    "id": 18,
+    "name": "Vaganza Pizza",
+    "price": 65.50,
+    "image_url": "http://localhost:4000/images/vaganza-pizza.png"
+  },
+  {
+    "category_id": 13,
+    "category": "Pizza",
+    "id": 19,
+    "name": "İtalyano Pizza",
+    "price": 68.50,
+    "image_url": "http://localhost:4000/images/italiano-pizza.png"
+  },
+  {
+    "category_id": 20,
+    "category": "Kahveler",
+    "id": 21,
+    "name": "Menengiç Kahvesi",
+    "price": 13,
+    "image_url": "http://localhost:4000/images/menengic-kahvesi.png"
+  },
+  {
+    "category_id": 20,
+    "category": "Kahveler",
+    "id": 22,
+    "name": "Türk Kahvesi",
+    "price": 13,
+    "image_url": "http://localhost:4000/images/turk-kahvesi.jpeg"
+  },
+  {
+    "category_id": 20,
+    "category": "Kahveler",
+    "id": 23,
+    "name": "Damla Sakızlı Kahve",
+    "price": 13.59,
+    "image_url": "http://localhost:4000/images/turk-kahvesi.jpeg"
+  }
+]
