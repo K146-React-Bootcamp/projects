@@ -1,8 +1,14 @@
 
 
-hafta 3 1. gün ödevleri
+hafta > 3 1. gün ödevleri
 // ödevler
 // düzenleme
 // sayfalama
 // sıralama
 
+hafta 3 > 2. gün ödevleri
+
+// context kullanarak tema yapımı
+// dark | ligth theme
+// custom evet nedir neden kullanılır.
+// örnek javascript projesi yapılacak
