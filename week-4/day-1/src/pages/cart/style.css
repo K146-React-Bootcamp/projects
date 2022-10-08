@@ -1,0 +1,24 @@
+.product-image {
+	height: 140px;
+	width: 170px;
+}
+.product-info {
+	margin-left: 10px;
+	display: flex;
+	flex-direction: column;
+}
+.basket-actions {
+	margin-top: 15px;
+}
+
+.total-price-wrapper {
+	margin-top: 20px;
+}
+span.material-symbols-outlined.remove-icon {
+    position: absolute;
+    right: 10px;
+}
+
+.cart-footer {
+  margin: 20px 0px;
+}

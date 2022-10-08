@@ -1,0 +1,9 @@
+.noResult {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 100px;
+	font-size: 14px;
+	font-weight: 600;
+  flex-direction: column;
+}
