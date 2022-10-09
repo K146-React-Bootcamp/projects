@@ -1,0 +1,39 @@
+.app-toast {
+	position: fixed;
+	z-index: 9999;
+}
+
+.top-right {
+	top: 90px;
+	right: 20px;
+}
+.top-center {
+	top: 90px;
+	margin: auto;
+	left: 0;
+	right: 0;
+}
+.top-left {
+	top: 90px;
+	left: 20px;
+}
+.bottom-right {
+	top: 90px;
+	right: 20px;
+}
+.bottom-center {
+	bottom: 90px;
+	margin: auto;
+	left: 0;
+	right: 0;
+}
+.bottom-left {
+	top: 90px;
+	left: 20px;
+}
+.toast-body,
+.toast-header {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}

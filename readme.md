@@ -75,3 +75,6 @@ Geliştirmesinde fayda olan Özellikler
 
 
 
+Refactor Adımları
+- [ ] Header Componentine geçilen propsları context yapısı kullanarak merkezileştirelim.
+- [ ] Searchbox olmadığı sayfalarda navbar yüksekliği azalıyor ve kullanıca geçiş sırasında kötü bir deneyim sağlıyor bunu düzeltelim.

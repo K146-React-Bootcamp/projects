@@ -1,0 +1,12 @@
+.searchboxWrapper {
+	padding: 10px;
+	border-radius: 45px;
+	border: 1px solid #ddd;
+	margin: 30px 0px;
+}
+.input {
+	border: none;
+	height: 40px;
+	outline: none;
+	width: 100%;
+}
